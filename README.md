@@ -2,7 +2,7 @@
 
 > **Student:** 2312351-Abdullah Asjad Bhutto
 > **Course:** DevOps Fundamentals
-> **Live URL:** http://13.217.12.76:8000/health
+> **Live URL:** http://[PUBLIC EC2 IP]:8000/health
 
 ---
 
