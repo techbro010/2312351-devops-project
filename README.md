@@ -4,7 +4,7 @@
 > 
 > **Course:** DevOps Fundamentals
 > 
-> **Live URL:** http://[PUBLIC EC2 IP]:8000/health
+> **Live URL:** http://34.207.226.203:8000/health
 
 ---
 
