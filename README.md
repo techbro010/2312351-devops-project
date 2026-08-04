@@ -3,8 +3,6 @@
 > **Student:** 2312351-Abdullah Asjad Bhutto
 > 
 > **Course:** DevOps Fundamentals
-> 
-> **Live URL:** http://34.207.226.203:8000/health
 
 ---
 
